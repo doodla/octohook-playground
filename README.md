@@ -1,3 +1,3 @@
-flamingo-playgroun2
+flamingo-playground
 
 Push
